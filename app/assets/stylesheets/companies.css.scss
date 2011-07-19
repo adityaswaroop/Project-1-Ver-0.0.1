@@ -1,0 +1,63 @@
+// Place all the styles related to the companies controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body.companies {
+  // Add the companies class to your body tag
+  // Then, place scoped styles here.
+}
+
+
+th {
+    background-color:#f1f1f1;
+    height:25px;
+    text-align:left;
+    padding-left:5px;
+    padding-right:5px;
+}
+
+td {
+    height:25px;
+    text-align:left;
+    padding-left:5px;
+}
+
+.b {
+    border:1px solid;
+}
+
+.btrb {
+    border-top:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+}
+
+.blrb {
+    border-left:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+}
+
+.brb {
+    border-right:1px solid;
+    border-bottom:1px solid;
+}
+
+.disp_data {
+    width:800px;
+    border:1px solid #000000;
+    background-color: #f1f1f1;
+    border-radius:5px;
+}
+
+.td_width {
+    width:130px;
+}
+
+.td_height_form {
+    height:5px;
+}
+
+.main_title {
+    background-color: #B8EFEC
+}
